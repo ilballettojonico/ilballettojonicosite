@@ -1,0 +1,22 @@
+{
+  "name": "sito-il-balletto-jonico",
+  "version": "1.0.0",
+  "description": "Sito web ufficiale per la scuola di danza Il Balletto Jonico - Massafra (TA)",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "preview": "node server.js"
+  },
+  "keywords": [
+    "danza",
+    "massafra",
+    "il-balletto-jonico",
+    "melania-gamarro",
+    "danza-classica",
+    "danza-contemporanea",
+    "taranto"
+  ],
+  "author": "Il Balletto Jonico SSD a r.l.",
+  "license": "ISC"
+}
